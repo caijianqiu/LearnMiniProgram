@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<!-- 页面布局代码 -->
+<text class="title">Hello World</text>
+<button size="mini">按钮</button>

@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+/* 设置相关样式 */
+.title{
+  color: red;
+  font-size: 30px;
+}
